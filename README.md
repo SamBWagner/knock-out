@@ -2,7 +2,6 @@
 
 **Knock Out** is a digital solution for managing a unique Magic: The Gathering Commander meta-format. This system automates the process of assigning players to pods, tracking knockouts, and dynamically creating new games as players return to the pool.
 
----
 
 ## The Format
 
@@ -22,16 +21,12 @@ The "Knock Out" format adds an exciting twist to the traditional Magic: The Gath
 
 This process repeats until all games are completed, making it a scalable and dynamic system for tournaments or casual events.
 
----
-
 ## Features
 - **Dynamic Pod Assignment**: Players are randomly assigned to Commander pods for each round.
 - **Knockout Management**: Tracks player eliminations and returns them to the pool.
 - **Automated Game Creation**: Automatically generates new pods when enough players are available.
 - **Cross-Platform Accessibility**: Start with a web-based MVP and expand to phone apps for iOS and Android.
 - **Scalable Architecture**: Supports both local playgroups and larger Commander tournaments.
-
----
 
 ## Visualizing the Format
 
