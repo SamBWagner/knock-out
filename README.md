@@ -2,7 +2,6 @@
 
 **Knock Out** is a digital solution for managing a unique Magic: The Gathering Commander meta-format. This system automates the process of assigning players to pods, tracking knockouts, and dynamically creating new games as players return to the pool.
 
-
 ## The Format
 
 The "Knock Out" format adds an exciting twist to the traditional Magic: The Gathering Commander experience. Here's how it works:
@@ -84,3 +83,10 @@ mindmap
 1. **Epics** are represented as `subgraph` nodes, with their titles clearly labeled.
 2. **PBIs** are listed as individual nodes branching off from their respective Epic.
 3. The structure is straightforward, emphasizing the relationship between each Epic and its PBIs.
+
+### Possible tech stack
+
+- .NET - API
+- Next.js - Front-end
+- React Native - Front-end (mobile)
+- Flutter - Front-end (mobile)
