@@ -60,7 +60,7 @@ flowchart TD
 ```mermaid
 mindmap
   root((Knock Out MVP))
-    Epic1(("User Management"))
+    Epic1(("1 User Management"))
       PBI1.1["User Registration"]
       PBI1.2["Player Pool Management"]
     Epic2(("Pod Assignment"))
